@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="简体中文"/>
+	</tags>
+	<strings>
+		<string id="gaJDVkvHA" text="预留"/>
+		
+		<string id="trait_tyrant" text="残暴"/>
+		<string id="trait_unjust" text="不义"/>
+		<string id="trait_just" text="正义"/>
+		<string id="trait_unbiased" text="公正"/>
+		
+		<string id="trait_pacifist" text="反战"/>
+		<string id="trait_mild" text="温和"/>
+		<string id="trait_violent" text="激进"/>
+		<string id="trait_vicious" text="恶毒"/>
+		
+		<string id="trait_oblivious" text="健忘"/>
+		<string id="trait_distracted" text="混淆"/>
+		<string id="trait_studious" text="好学"/>
+		<string id="trait_erudite" text="博学"/>
+		
+		<string id="trait_reclusive" text="孤僻"/>
+		<string id="trait_introspective" text="安静"/>
+		<string id="trait_sociable" text="随和"/>
+		<string id="trait_gregarious" text="合群"/>
+
+		<string id="trait_satisfied" text="佛系"/>
+		<string id="trait_content" text="知足"/>
+		<string id="trait_ambitious" text="野心"/>
+		<string id="trait_relentless" text="贪婪"/>
+		
+		<string id="trait_arrogant" text="傲慢"/>
+		<string id="trait_pretentious" text="狂妄"/>
+		<string id="trait_modest" text="谦虚"/>
+		<string id="trait_humble" text="谦逊"/>
+		
+		<string id="trait_lazy" text="懒惰"/>
+		<string id="trait_weary" text="厌倦"/>
+		<string id="trait_diligent" text="勤奋"/>
+		<string id="trait_tireless" text="不倦"/>
+		
+		<string id="trait_cynic" text="愤世"/>
+		<string id="trait_skeptic" text="多疑"/>
+		<string id="trait_faithful" text="忠诚"/>
+		<string id="trait_zealot" text="狂热"/>
+		
+		<string id="bk_law_slave_duties" text="奴隶义务"/>
+		<string id="bk_law_serf_duties" text="农奴义务"/>
+		<string id="bk_law_craftsmen_duties" text="工匠义务"/>
+		<string id="bk_law_noble_duties" text="贵族义务"/>
+		<string id="bk_law_estate_tenure" text="庄园保有权"/>
+		<string id="bk_slavery" text="奴隶制"/>
+		<string id="bk_law_tenancy" text="平民任期"/>
+		<string id="bk_law_high_council" text="最高委员会"/>
+		
+		<string id="bk_rich" text="富有"/>
+		<string id="bk_adequate" text="一般"/>
+		<string id="bk_poor" text="贫穷"/>
+		
+		<string id="bk_taxation" text="税收"/>
+		<string id="bk_drafting" text="征召"/>
+		<string id="bk_land_expansion" text="土地扩张"/>
+		<string id="bk_production" text="生产"/>
+		
+		<string id="bk_description_clay" text="黏土的历史几乎和硬木一样悠久，有着悠久的建筑传统。这种材料在欧洲大陆极为常见，它提供了比木材更坚固的基础。它可以烘烤成砖，因此用途非常广泛。"/>
+		<string id="bk_description_marble" text="一种比石灰石更稀有、更有价值的材料。大理石被帝国发现是一种软到可以雕刻成雕塑的材料。这种特性与材料的自然美相结合，使其备受追捧。它通常用于更精致的建筑物，以传递财富和权力，如宫殿和议会。"/>
+		
+		<string id="bk_description_hardwood" text="这是一种典型的建筑材料，在人们写下自己的事迹之前就已经使用了。硬木用于建造整个结构，但也补充了由更坚固的基础（如粘土或石灰石基础）制成的结构。"/>
+		<string id="bk_description_limestone" text="石灰石是一种常见的矿物，用作石头建筑、墙壁和道路的坚固材料。尽管它很常见，但它的提取和运输成本远远高于单纯使用木材或粘土。"/>
+		
+		<string id="bk_description_iron" text="铁是制造工具和建筑支撑结构的基本材料。大多数高等建筑都会在一定程度上使用到铁。" />
+		<string id="bk_description_tools" text="除非是粗制滥造的产品，否则制造任何东西都需要专门的工具。随着建筑学的发展，人们需要越来越多的工具，特别是石制建筑，因为石头的性质异常坚硬。" />
+		
+		<string id="bk_limestone" text="石灰石{@Plural}成堆石灰石{\@}"/>
+		<string id="bk_gold" text="黄金{@Plural}大量黄金{\@}"/>
+		<string id="bk_mead" text="蜜酒{@Plural}一桶蜜酒{\@}"/>
+		<string id="bk_marble" text="大理石{@Plural}成堆大理石{\@}"/>
+		<string id="baFazbmR" text="铁矿石{@Plural}成堆铁矿石{\@}"/>
+        <string id="jPwa1oOm" text="银矿石{@Plural}成堆银矿石{\@}"/>
+        <string id="Zwb65ufG" text="黏土{@Plural}成堆黏土{\@}"/>
+
+		<string id="bk_primogeniture" text="长子继承制"/>
+		<string id="bk_ultimogeniture" text="幼子继承制"/>
+		<string id="bk_seniority" text="长者继承制"/>
+		<string id="bk_republic" text="共和制"/>
+		<string id="bk_imperial" text="帝制"/>
+		<string id="bk_feudal" text="封建制"/>
+		<string id="bk_tribal" text="部落联盟制"/>
+		<string id="bk_agnatic" text="父系继嗣法"/>
+		<string id="bk_cognatic" text="并系继嗣法"/>
+		<string id="bk_hereditary_monarchy" text="君主世袭制"/>
+		<string id="bk_elective_monarchy" text="君主选举制"/>
+		
+		<string id="bk_crafting_itemtype_bodyarmor" text="护甲"/>
+		<string id="bk_crafting_itemtype_barding" text="马具"/>
+		<string id="bk_crafting_itemtype_shield" text="盾牌"/>
+		<string id="bk_crafting_itemtype_ammo" text="弹药"/>
+
+		<string id="bk_modifier_purebred" text="纯种的{ITEMNAME}"/>
+		<string id="bk_modifier_strong" text="健壮的{ITEMNAME}"/>
+		<string id="bk_modifier_stubborn" text="顽强的{ITEMNAME}"/>
+		<string id="bk_modifier_anaemic" text="贫弱的{ITEMNAME}"/>
+		<string id="bk_modifier_poor" text="劣质的{ITEMNAME}"/>
+		<string id="8Tal0XIj" text="绝佳的{ITEMNAME}"/>
+        <string id="bAdxUq7s" text="优质的{ITEMNAME}"/>
+        <string id="eb1b5PQ" text="精良的{ITEMNAME}"/>
+        <string id="RwBOv1Mz" text="粗糙的{ITEMNAME}"/>
+        <string id="br0N6SSH" text="劣质的{ITEMNAME}"/>
+
+		<string id="bk_privileges" text="特权"/>
+		<string id="bk_council_privilege_low_wage" text="低薪酬"/>
+		<string id="bk_council_privilege_mid_wage" text="中薪酬"/>
+		<string id="bk_council_privilege_high_wage" text="高薪酬"/>
+		<string id="bk_council_privilege_influence" text="影响力"/>
+		<string id="bk_council_privilege_high_influence" text="高影响力"/>
+		<string id="bk_council_privilege_clergymen_exclusive" text="宗教特权"/>
+		<string id="bk_council_privilege_noble_exclusive" text="贵族特权"/>
+		<string id="bk_council_privilege_army_privilege" text="军队特权"/>
+
+		<string id="bk_council_privilege_low_wage_description"
+		        text="低薪酬适用于内阁中相对不重要的职位。"/>
+		<string id="bk_council_privilege_mid_wage_description"
+		        text="中薪酬适用于地方内阁中主要的职位，或者王室内阁中不重要的职位。"/>
+		<string id="bk_council_privilege_high_wage_description"
+		        text="高薪酬适用于王室内阁中尤为重要的职位。"/>
+		<string id="bk_council_privilege_influence_description"
+		        text="拥有此特权的内阁成员将获得额外影响力（非贵族为权望）。"/>
+		<string id="bk_council_privilege_high_influence_description"
+		        text="拥有此特权的内阁成员，其家族影响力将获得极大增益。"/>
+		<string id="bk_council_privilege_clergymen_exclusive_description"
+		        text="该职位只能由与家族或王国信仰相同的神职人员担任。"/>
+		<string id="bk_council_privilege_noble_exclusive_description"
+		        text="该职位尤为重要，只能由贵族担任。定居点要人不可担任。"/>
+		<string id="bk_council_privilege_army_privilege_description"
+		        text="该职位赋予内阁成员永久军事权。"/>
+
+		<string id="bk_council_description_marshall"
+		        text="{NAME}监督王国的军事管理。他们负责领地防御和征召士兵。"/>
+		<string id="bk_council_description_steward"
+		        text="{NAME}负责金融和贸易。他们改善了经济，让领地更加繁荣。"/>
+		<string id="bk_council_description_chancellor"
+		        text="{NAME}负责外交工作。他们改善领主和封臣的关系。"/>
+		<string id="bk_council_description_spymaster"
+		        text="{NAME}主要负责谋略和谍报工作。他们保护领主人身安全，处理犯罪行为。"/>
+		<string id="bk_council_description_spiritual"
+		        text="{NAME}是内阁中信仰的代表。他们的职责是在物质和精神力量之间架起一座桥梁，并确保他们的宗主遵循信仰的原则。"/>
+		<string id="bk_council_description_elder"
+		        text="{NAME}代表部落社会中受尊敬的年长领导者阶层。他们的存在增加了君主对普通百姓的影响力。"/>
+		<string id="bk_council_description_castellan"
+		        text="{NAME}监督城堡及其管理。他们负责城堡繁荣度，确保城堡领地持续增长和发展。"/>
+		<string id="bk_council_description_constable"
+		        text="{NAME}管理定居点内法律执法和刑事案件。他们的目标是作为一名监督者来保证领域稳定，成为王冠与州长之间的调解者。"/>
+		<string id="bk_council_description_philosopher"
+		        text="{NAME}负责家族文化和普遍教育方面的进步。这些博学之士研究创新，并教授赞助家族成员阅读、写作、历史等科目。"/>
+				
+		<string id="bk_council_description_spouse"
+		        text="{NAME}负责协助家族领袖处理家族和财产有关的任务。一个好的配偶了解法律科目，以便充分处理家族领袖无法顾及的重要事项。"/>
+		<string id="bk_council_description_courtphysician"
+		        text="{NAME}负责其宗主家族的健康。医学是一种稀缺的技能，贵族家庭往往会对这样的专家给予丰厚的奖励，他们会把自己的生命交付与他。"/>
+		<string id="bk_council_description_courtsmith"
+		        text="{NAME}负责家族的装备打造。为他们发放工资，可以使他们能够将手艺与精力集中在使贵族们获得与之相称的高质量装备上。"/>
+		<string id="bk_council_description_courtmusician"
+		        text="{NAME}主要负责在宴会上招待贵族以及他们的宾客。由于宴会是上流社会之间常见的互动方式，因此常备有许多昂贵的设备与专门的艺人。"/>
+
+		<string id="bk_spiritual_guide" text="教区长"/>
+
+		<string id="bk_council_marshall_effects"
+		        text="定居点民兵+1{BREAK}定居点军国主义+1% {BREAK}定居点征兵效率+25%"/>
+		<string id="bk_council_steward_effects"
+		        text="定居点繁荣度+1{BREAK}定居点生产效率+15%{BREAK}定居点商队吸引力+15%"/>
+		<string id="bk_council_chancellor_effects"
+		        text="定居点忠诚度+1{BREAK}封臣上限+1{BREAK}宗教分歧的影响-20%"/>
+		<string id="bk_council_spymaster_effects" text="定居点治安度+1{BREAK}定居点自治-3%{BREAK}"/>
+		<string id="bk_council_spiritual_effects" text="每日虔诚+0.5{BREAK}信仰传播速度+5%"/>
+		<string id="bk_council_castellan_effects" text="城堡繁荣度每日+1.5"/>
+		<string id="bk_council_constable_effects" text="定居点稳定性+4%"/>
+		<string id="bk_council_elder_effects" text="村庄户数每日+0.2"/>
+		<string id="bk_council_philosopher_effects" text="定居点提供改革进度+5%{BREAK}家族成员每日获得经验+5"/>
+		
+		<string id="bk_council_constable_empire" text="治安官"/>
+		<string id="bk_council_constable_sturgia" text="治安官"/>
+		<string id="bk_council_constable_battania" text="治安官"/>
+		<string id="bk_council_constable_vlandia" text="治安官"/>
+		<string id="bk_council_constable_khuzait" text="治安官"/>
+		<string id="bk_council_constable_aserai" text="治安官"/>
+		
+		<string id="bk_council_castellan_vlandia" text="城守"/>
+		
+		
+		<string id="bk_council_philosopher_empire" text="哲学家"/>
+		<string id="bk_council_philosopher_sturgia" text="哲学家"/>
+		<string id="bk_council_philosopher_battania" text="哲学家"/>
+		<string id="bk_council_philosopher_vlandia" text="哲学家"/>
+		<string id="bk_council_philosopher_khuzait" text="哲学家"/>
+		<string id="bk_council_philosopher_aserai" text="哲学家"/>
+
+		<string id="bk_council_marshall_empire" text="统帅"/>
+		<string id="bk_council_marshall_sturgia" text="将军"/>
+		<string id="bk_council_marshall_battania" text="统领"/>
+		<string id="bk_council_marshall_vlandia" text="统帅"/>
+		<string id="bk_council_marshall_khuzait" text="达鲁花赤"/>
+		<string id="bk_council_marshall_aserai" text="统帅"/>
+
+		<string id="bk_council_marshall_royal_empire" text="大元帅"/>
+		<string id="bk_council_marshall_royal_sturgia" text="大将军"/>
+		<string id="bk_council_marshall_royal_battania" text="至高统领"/>
+		<string id="bk_council_marshall_royal_vlandia" text="大元帅"/>
+		<string id="bk_council_marshall_royal_khuzait" text="那颜"/>
+		<string id="bk_council_marshall_royal_aserai" text="大元帅"/>
+
+		<string id="bk_council_steward_empire" text="财政官"/>
+		<string id="bk_council_steward_sturgia" text="财政官"/>
+		<string id="bk_council_steward_battania" text="财政官"/>
+		<string id="bk_council_steward_vlandia" text="财政官"/>
+		<string id="bk_council_steward_khuzait" text="财政官"/>
+		<string id="bk_council_steward_aserai" text="财政官"/>
+
+		<string id="bk_council_steward_royal_empire" text="圣库总管"/>
+		<string id="bk_council_steward_royal_sturgia" text="王室总管"/>
+		<string id="bk_council_steward_royal_battania" text="王室总管"/>
+		<string id="bk_council_steward_royal_vlandia" text="王室总管"/>
+		<string id="bk_council_steward_royal_khuzait" text="王室总管"/>
+		<string id="bk_council_steward_royal_aserai" text="王室总管"/>
+
+		<string id="bk_council_chancellor_empire" text="内阁议员"/>
+		<string id="bk_council_chancellor_sturgia" text="内阁议员"/>
+		<string id="bk_council_chancellor_battania" text="内阁议员"/>
+		<string id="bk_council_chancellor_vlandia" text="内阁议员"/>
+		<string id="bk_council_chancellor_khuzait" text="内阁议员"/>
+		<string id="bk_council_chancellor_aserai" text="内阁议员"/>
+
+		<string id="bk_council_chancellor_royal_empire" text="内阁总理"/>
+		<string id="bk_council_chancellor_royal_sturgia" text="内阁总理"/>
+		<string id="bk_council_chancellor_royal_battania" text="内阁总理"/>
+		<string id="bk_council_chancellor_royal_vlandia" text="内阁总理"/>
+		<string id="bk_council_chancellor_royal_khuzait" text="内阁总理"/>
+		<string id="bk_council_chancellor_royal_aserai" text="内阁总理"/>
+
+		<string id="bk_council_spymaster_empire" text="间谍头目"/>
+		<string id="bk_council_spymaster_sturgia" text="间谍头目"/>
+		<string id="bk_council_spymaster_battania" text="间谍头目"/>
+		<string id="bk_council_spymaster_vlandia" text="间谍头目"/>
+		<string id="bk_council_spymaster_khuzait" text="间谍头目"/>
+		<string id="bk_council_spymaster_aserai" text="间谍头目"/>
+
+		<string id="bk_council_spymaster_royal_empire" text="间谍首脑"/>
+		<string id="bk_council_spymaster_royal_sturgia" text="间谍首脑"/>
+		<string id="bk_council_spymaster_royal_battania" text="间谍首脑"/>
+		<string id="bk_council_spymaster_royal_vlandia" text="间谍首脑"/>
+		<string id="bk_council_spymaster_royal_khuzait" text="间谍首脑"/>
+		<string id="bk_council_spymaster_royal_aserai" text="间谍首脑"/>
+
+		<string id="bk_council_spiritual_guide_empire" text="主教"/>
+		<string id="bk_council_spiritual_guide_sturgia" text="祭司"/>
+		<string id="bk_council_spiritual_guide_battania" text="德鲁伊"/>
+		<string id="bk_council_spiritual_guide_vlandia" text="主教"/>
+		<string id="bk_council_spiritual_guide_khuzait" text="祭司"/>
+		<string id="bk_council_spiritual_guide_aserai" text="穆尔希德"/>
+
+		<string id="bk_council_spiritual_guide_royal_empire" text="大主教"/>
+		<string id="bk_council_spiritual_guide_royal_sturgia" text="祭司"/>
+		<string id="bk_council_spiritual_guide_royal_battania" text="秘传德鲁伊"/>
+		<string id="bk_council_spiritual_guide_royal_vlandia" text="大主教"/>
+		<string id="bk_council_spiritual_guide_royal_khuzait" text="祭司"/>
+		<string id="bk_council_spiritual_guide_royal_aserai" text="穆尔希德"/>
+
+		<string id="bk_council_elder_royal_battania" text="贤者"/>
+
+		<string id="bk_skill_scholarship_learn" text="阅读书籍，学习语言，规划生活方式。频繁与当地书商交流学习。"/>
+		<string id="bk_skill_theology_learn"
+		        text="积极获得虔诚。通过宣誓、献祭或祝福与神灵互动，获得祝福并治愈诅咒。"/>
+		<string id="bk_skill_lordship_learn"
+		        text="合法化你的领地所有权。完成头衔互动，例如宣传、授予或篡夺。"/>
+		<string id="pop_class_nobles" text="贵族"/>
+		<string id="pop_class_craftsmen" text="工匠"/>
+		<string id="pop_class_serfs" text="农奴"/>
+		<string id="pop_class_slaves" text="奴隶"/>
+		<string id="pop_class_tenants" text="佃农" />
+
+		<string id="pop_class_serfs_sturgia" text="下等人"/>
+		<string id="pop_class_serfs_empire" text="隶农"/>
+		<string id="pop_class_serfs_aserai" text="平民"/>
+		<string id="pop_class_serfs_battania" text="自由民"/>
+		<string id="pop_class_serfs_khuzait" text="游牧民"/>
+		<string id="pop_class_serfs_vlandia" text="农奴"/>
+
+		<string id="pop_class_slaves_sturgia" text="奴隶"/>
+		<string id="pop_class_slaves_aserai" text="马穆鲁克"/>
+		<string id="pop_class_slaves_vlandia" text="奴隶"/>
+		<string id="pop_class_slaves_battania" text="奴隶"/>
+		<string id="pop_class_slaves_empire" text="奴隶"/>
+		<string id="pop_class_slaves_khuzait" text="奴隶"/>
+
+		<string id="pop_class_craftsmen_battania" text="技工"/>
+		<string id="pop_class_craftsmen_khuzait" text="技工"/>
+		<string id="pop_class_craftsmen_vlandia" text="工匠"/>
+		<string id="pop_class_craftsmen_empire" text="工匠"/>
+		<string id="pop_class_craftsmen_sturgia" text="工匠"/>
+		<string id="pop_class_craftsmen_aserai" text="工匠"/>
+
+		<string id="pop_class_nobles_empire" text="贵族"/>
+		<string id="pop_class_nobles_sturgia" text="王公"/>
+		<string id="pop_class_nobles_vlandia" text="勋爵"/>
+		<string id="pop_class_nobles_battania" text="贵族"/>
+		<string id="pop_class_nobles_aserai" text="贵族"/>
+		<string id="pop_class_nobles_khuzait" text="贵族"/>
+		
+		<string id="bk_condition_has_enough_gold" text="{HERO.LINK} 没有足够的第纳尔。 {?PAYER.GENDER}她{?}他{\\?} 需要至少 {AMOUNT} {GOLD_ICON}。"/>
+        <string id="bk_condition_is_part_of_clan" text="{HERO.LINK} 不再是 {CLAN_LINK} 的一员。"/>
+        <string id="bk_condition_is_part_of_any_clan" text="{HERO.LINK} 他不再是家族的一员。"/>
+        <string id="bk_condition_is_part_of_kingdom" text="{HERO.LINK} 不再是 {KINGDOM_LINK} 的一员。"/>
+        <string id="bk_condition_is_part_of_any_kingdom" text="{HERO.LINK} 不再是王国的一员。"/>
+        <string id="bk_condition_is_part_of_settlement" text="{HERO.LINK} 不再是 {SETTLEMENT_LINK} 的一员。"/>
+        <string id="bk_condition_is_part_of_any_settlement" text="{HERO.LINK} 不再是定居点的一员。"/>
+		<string id="str_feudalism_contract_paragraph" text="您, {0}, 自此正式接受{1}的约束, 履行你的义务、维护你的权力，除非主动解除条约、归还权利、上交土地，亦或背叛和死亡，否则这份约束将会一直生效。"/>
+		<string id="feudalism_contract_duties" text="义务"/>
+		<string id="feudalism_contract_rights" text="权利"/>
+		<string id="5gcHVbpa" text="{CAPITAL}现在为{KINGDOM}的首都。"/>
+	</strings>
+</base>

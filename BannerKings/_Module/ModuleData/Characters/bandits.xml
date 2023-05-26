@@ -28,7 +28,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bandithero_sea_raiders_sturgia_2" name="{=!}{HERO.FIRSTNAME} the Fox" 
+	<NPCCharacter id="bannerkings_bandithero_sea_raiders_sturgia_2" name="{=!}“狡狐”{HERO.FIRSTNAME}" 
 				voice="softspoken"
 				is_template="true" 
 				default_group="Infantry" 
@@ -54,7 +54,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bandithero_sea_raiders_sturgia_3" name="{=!}Silver-Tongue {HERO.FIRSTNAME}" 
+	<NPCCharacter id="bannerkings_bandithero_sea_raiders_sturgia_3" name="{=!}“银舌”{HERO.FIRSTNAME}" 
 				voice="softspoken"
 				is_template="true" 
 				default_group="Infantry" 
@@ -80,7 +80,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bandithero_sea_raiders_sturgia_4" name="{=!}{HERO.FIRSTNAME} the Bear" 
+	<NPCCharacter id="bannerkings_bandithero_sea_raiders_sturgia_4" name="{=!}“暴熊”{HERO.FIRSTNAME}" 
 				voice="softspoken"
 				is_template="true" 
 				default_group="Infantry" 
@@ -133,7 +133,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bandithero_forest_bandits_battania_2" name="{=!}{HERO.FIRSTNAME} the Fox" 
+	<NPCCharacter id="bannerkings_bandithero_forest_bandits_battania_2" name="{=!}“狡狐”{HERO.FIRSTNAME}" 
 				voice="softspoken"
 				is_template="true" 
 				default_group="Infantry" 
@@ -159,7 +159,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bandithero_forest_bandits_battania_3" name="{=!}Sharp-Tongue {HERO.FIRSTNAME}" 
+	<NPCCharacter id="bannerkings_bandithero_forest_bandits_battania_3" name="{=!}“尖舌”{HERO.FIRSTNAME}" 
 				voice="softspoken"
 				is_template="true" 
 				default_group="Infantry" 
@@ -185,7 +185,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bandithero_forest_bandits_battania_4" name="{=!}{HERO.FIRSTNAME} the Hog" 
+	<NPCCharacter id="bannerkings_bandithero_forest_bandits_battania_4" name="{=!}“野猪”{HERO.FIRSTNAME}" 
 				voice="softspoken"
 				is_template="true" 
 				default_group="Infantry" 
@@ -263,7 +263,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bandithero_desert_bandits_aserai_3" name="{=!}Sharp-Tongue {HERO.FIRSTNAME}" 
+	<NPCCharacter id="bannerkings_bandithero_desert_bandits_aserai_3" name="{=!}“尖舌”{HERO.FIRSTNAME}" 
 				voice="softspoken"
 				is_template="true" 
 				default_group="Infantry" 
@@ -368,7 +368,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bandithero_steppe_bandits_khuzait_3" name="{=!}Sharp-Tongue {HERO.FIRSTNAME}" 
+	<NPCCharacter id="bannerkings_bandithero_steppe_bandits_khuzait_3" name="{=!}“尖舌”{HERO.FIRSTNAME}" 
 				voice="softspoken"
 				is_template="true" 
 				default_group="Infantry" 
@@ -447,7 +447,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bandithero_mountain_bandits_vlandia_2" name="{=!}{HERO.FIRSTNAME} the Fox" 
+	<NPCCharacter id="bannerkings_bandithero_mountain_bandits_vlandia_2" name="{=!}“狡狐”{HERO.FIRSTNAME}" 
 				voice="softspoken"
 				is_template="true" 
 				default_group="Infantry" 
@@ -473,7 +473,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bandithero_mountain_bandits_vlandia_3" name="{=!}Sharp-Tongue {HERO.FIRSTNAME}" 
+	<NPCCharacter id="bannerkings_bandithero_mountain_bandits_vlandia_3" name="{=!}“尖舌”{HERO.FIRSTNAME}" 
 				voice="softspoken"
 				is_template="true" 
 				default_group="Infantry" 
@@ -499,7 +499,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bandithero_mountain_bandits_vlandia_4" name="{=!}Dimwit {HERO.FIRSTNAME}" 
+	<NPCCharacter id="bannerkings_bandithero_mountain_bandits_vlandia_4" name="{=!}“愚民”{HERO.FIRSTNAME}" 
 				voice="softspoken"
 				is_template="true" 
 				default_group="Infantry" 
@@ -551,7 +551,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bandithero_looters_battania_2" name="{=!}{HERO.FIRSTNAME} the Fox" 
+	<NPCCharacter id="bannerkings_bandithero_looters_battania_2" name="{=!}“狡狐”{HERO.FIRSTNAME}" 
 				voice="softspoken"
 				is_template="true" 
 				default_group="Infantry" 
@@ -576,7 +576,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bandithero_looters_battania_3" name="{=!}Sharp-Tongue {HERO.FIRSTNAME}" 
+	<NPCCharacter id="bannerkings_bandithero_looters_battania_3" name="{=!}“尖舌”{HERO.FIRSTNAME}" 
 				voice="softspoken"
 				is_template="true" 
 				default_group="Infantry" 
@@ -601,7 +601,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bandithero_looters_battania_4" name="{=!}{HERO.FIRSTNAME} the Hog" 
+	<NPCCharacter id="bannerkings_bandithero_looters_battania_4" name="{=!}“野猪”{HERO.FIRSTNAME}" 
 				voice="softspoken"
 				is_template="true" 
 				default_group="Infantry" 
@@ -651,7 +651,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bandithero_looters_empire_2" name="{=!}{HERO.FIRSTNAME} the Sly" 
+	<NPCCharacter id="bannerkings_bandithero_looters_empire_2" name="{=!}“滑头”{HERO.FIRSTNAME}" 
 				voice="softspoken"
 				is_template="true" 
 				default_group="Infantry" 
@@ -676,7 +676,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bandithero_looters_empire_3" name="{=!}Quick-Witted {HERO.FIRSTNAME}" 
+	<NPCCharacter id="bannerkings_bandithero_looters_empire_3" name="{=!}“机敏”{HERO.FIRSTNAME}" 
 				voice="softspoken"
 				is_template="true" 
 				default_group="Infantry" 
@@ -701,7 +701,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bandithero_looters_empire_4" name="{=!}{HERO.FIRSTNAME} the Brute" 
+	<NPCCharacter id="bannerkings_bandithero_looters_empire_4" name="{=!}“残暴”{HERO.FIRSTNAME}" 
 				voice="softspoken"
 				is_template="true" 
 				default_group="Infantry" 
@@ -751,7 +751,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bandithero_looters_sturgia_2" name="{=!}{HERO.FIRSTNAME} the Fox" 
+	<NPCCharacter id="bannerkings_bandithero_looters_sturgia_2" name="{=!}“狡狐”{HERO.FIRSTNAME}" 
 				voice="softspoken"
 				is_template="true" 
 				default_group="Infantry" 
@@ -776,7 +776,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bandithero_looters_sturgia_3" name="{=!}Silver-Tongue {HERO.FIRSTNAME}" 
+	<NPCCharacter id="bannerkings_bandithero_looters_sturgia_3" name="{=!}“银舌”{HERO.FIRSTNAME}" 
 				voice="softspoken"
 				is_template="true" 
 				default_group="Infantry" 
@@ -801,7 +801,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bandithero_looters_sturgia_4" name="{=!}{HERO.FIRSTNAME} the Bear" 
+	<NPCCharacter id="bannerkings_bandithero_looters_sturgia_4" name="{=!}“暴熊”{HERO.FIRSTNAME}" 
 				voice="softspoken"
 				is_template="true" 
 				default_group="Infantry" 
@@ -876,7 +876,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bandithero_looters_aserai_3" name="{=!}Sharp-Tongue {HERO.FIRSTNAME}" 
+	<NPCCharacter id="bannerkings_bandithero_looters_aserai_3" name="{=!}“尖舌”{HERO.FIRSTNAME}" 
 				voice="softspoken"
 				is_template="true" 
 				default_group="Infantry" 
@@ -976,7 +976,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bandithero_looters_khuzait_3" name="{=!}Sharp-Tongue {HERO.FIRSTNAME}" 
+	<NPCCharacter id="bannerkings_bandithero_looters_khuzait_3" name="{=!}“尖舌”{HERO.FIRSTNAME}" 
 				voice="softspoken"
 				is_template="true" 
 				default_group="Infantry" 
@@ -1051,7 +1051,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bandithero_looters_vlandia_2" name="{=!}{HERO.FIRSTNAME} the Fox" 
+	<NPCCharacter id="bannerkings_bandithero_looters_vlandia_2" name="{=!}“狡狐”{HERO.FIRSTNAME}" 
 				voice="softspoken"
 				is_template="true" 
 				default_group="Infantry" 
@@ -1076,7 +1076,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bandithero_looters_vlandia_3" name="{=!}Sharp-Tongue {HERO.FIRSTNAME}" 
+	<NPCCharacter id="bannerkings_bandithero_looters_vlandia_3" name="{=!}“尖舌”{HERO.FIRSTNAME}" 
 				voice="softspoken"
 				is_template="true" 
 				default_group="Infantry" 
@@ -1101,7 +1101,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bandithero_looters_vlandia_4" name="{=!}Dimwit {HERO.FIRSTNAME}" 
+	<NPCCharacter id="bannerkings_bandithero_looters_vlandia_4" name="{=!}“愚民”{HERO.FIRSTNAME}" 
 				voice="softspoken"
 				is_template="true" 
 				default_group="Infantry" 
@@ -1130,7 +1130,7 @@
    <NPCCharacter id="bk_bandit_nordling_2"
                 default_group="Infantry"
                 level="26"
-                name="{=!}Nordling Húskarl"
+                name="{=!}诺德精英侵略者"
                 occupation="Bandit"
                 culture="Culture.sturgia">
     <face>
@@ -1214,7 +1214,7 @@
   <NPCCharacter id="bk_bandit_nordling_1"
                 default_group="Infantry"
                 level="21"
-                name="{=!}Nordling Húskarl"
+                name="{=!}诺德侵略者"
                 occupation="Bandit"
                 culture="Culture.sturgia">
     <face>

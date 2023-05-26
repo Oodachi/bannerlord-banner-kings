@@ -13,7 +13,7 @@
            settlement_banner_mesh="none"
            is_bandit="true"
            is_outlaw="true"
-           name="{=!}Caravan Robbers"
+           name="{=!}拦路悍匪"
            tier="1"></Faction>
 
    <Faction id="rogue_knights"
@@ -28,7 +28,7 @@
            settlement_banner_mesh="none"
            is_bandit="true"
            is_outlaw="true"
-           name="{=!}Rogue Knights"
+           name="{=!}恶棍骑士"
            tier="1"></Faction>
 		   
     <Faction id="nordling_invaders"
@@ -43,6 +43,6 @@
            settlement_banner_mesh="none"
            is_bandit="true"
            is_outlaw="true"
-           name="{=!}Nordlings"
+           name="{=!}诺德侵略者"
            tier="1"></Faction>
 </Factions>

@@ -3,7 +3,7 @@
 <NPCCharacters>
 
 
-  <NPCCharacter id="canticles_zealot_tier4" default_group="Cavalry" level="21" name="{=!}Rider of the Canticles" occupation="Soldier" culture="Culture.vlandia">
+  <NPCCharacter id="canticles_zealot_tier4" default_group="Cavalry" level="21" name="{=!}巡礼圣教军" occupation="Soldier" culture="Culture.vlandia">
     <face>
       <face_key_template value="BodyProperty.fighter_vlandia" />
     </face>
@@ -84,7 +84,7 @@
     </Equipments>
   </NPCCharacter>
 
-	<NPCCharacter id="bannerkings_bookseller_battania" name="{=!}{FIRSTNAME} the Loremaster" default_group="Infantry"
+	<NPCCharacter id="bannerkings_bookseller_battania" name="{=!}“博学者”{FIRSTNAME}" default_group="Infantry"
 	              age="65" voice="softspoken" is_template="true" is_hero="false" culture="Culture.battania"
 	              occupation="Special">
 		<face>
@@ -114,7 +114,7 @@
 		</Equipments>
 	</NPCCharacter>
 
-	<NPCCharacter id="bannerkings_bookseller_empire" name="{=yr5pa0hs}{FIRSTNAME}, the Book Keeper"
+	<NPCCharacter id="bannerkings_bookseller_empire" name="{=yr5pa0hs}“藏书人”{FIRSTNAME}"
 	              default_group="Infantry" age="65" voice="softspoken" is_template="true" is_hero="false"
 	              culture="Culture.empire" occupation="Special">
 		<face>
@@ -140,7 +140,7 @@
 		</Equipments>
 	</NPCCharacter>
 
-	<NPCCharacter id="bannerkings_bookseller_vlandia" name="{=!}{FIRSTNAME}, the Lamenter" default_group="Infantry"
+	<NPCCharacter id="bannerkings_bookseller_vlandia" name="{=!}“哀叹者”{FIRSTNAME}" default_group="Infantry"
 	              age="65" voice="softspoken" is_template="true" is_hero="false" culture="Culture.vlandia"
 	              occupation="Special">
 		<face>
@@ -168,7 +168,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bookseller_aserai" name="{=yr5pa0hs}{FIRSTNAME}, the Wise" default_group="Infantry"
+	<NPCCharacter id="bannerkings_bookseller_aserai" name="{=yr5pa0hs}“贤者”{FIRSTNAME}" default_group="Infantry"
 	              age="65" voice="softspoken" is_template="true" is_hero="false" culture="Culture.aserai"
 	              occupation="Special">
 		<face>
@@ -191,7 +191,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bookseller_sturgia" name="{=!}{FIRSTNAME}, the Runereader" default_group="Infantry"
+	<NPCCharacter id="bannerkings_bookseller_sturgia" name="{=!}“秘语者”{FIRSTNAME}" default_group="Infantry"
 	              age="65" voice="softspoken" is_template="true" is_hero="false" culture="Culture.sturgia"
 	              occupation="Special">
 		<face>
@@ -214,7 +214,7 @@
 		</Equipments>
 	</NPCCharacter>
 	
-	<NPCCharacter id="bannerkings_bookseller_khuzait" name="{=!}{FIRSTNAME}, the Skygazer" default_group="Infantry"
+	<NPCCharacter id="bannerkings_bookseller_khuzait" name="{=!}“观星者”{FIRSTNAME}" default_group="Infantry"
 	              age="65" voice="softspoken" is_template="true" is_hero="false" culture="Culture.khuzait"
 	              occupation="Special">
 		<face>
@@ -1535,7 +1535,7 @@
 	<NPCCharacter id="craftsman_empire"
 	              default_group="Infantry"
 	              level="1"
-	              name="{=!}Empire Craftsman"
+	              name="{=!}帝国工匠"
 	              occupation="Villager"
 	              culture="Culture.empire"
 	              skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
@@ -1601,7 +1601,7 @@
 	<NPCCharacter id="noble_empire"
 	              default_group="Cavalry"
 	              level="1"
-	              name="{=!}Empire Nobile"
+	              name="{=!}帝国贵族"
 	              occupation="Villager"
 	              culture="Culture.empire"
 	              skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
@@ -1692,7 +1692,7 @@
 	<NPCCharacter id="craftsman_vlandia"
 	              default_group="Infantry"
 	              level="1"
-	              name="{=!}Vlandia Craftsman"
+	              name="{=!}瓦兰迪亚工匠"
 	              occupation="Villager"
 	              culture="Culture.vlandia"
 	              skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
@@ -1791,7 +1791,7 @@
 	<NPCCharacter id="noble_vlandia"
 	              default_group="Cavalry"
 	              level="1"
-	              name="{=!}Vlandia Noble"
+	              name="{=!}瓦兰迪亚贵族"
 	              occupation="Villager"
 	              culture="Culture.vlandia"
 	              skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
@@ -1879,7 +1879,7 @@
 	<NPCCharacter id="craftsman_sturgia"
 	              default_group="Infantry"
 	              level="1"
-	              name="{=!}Sturgia Craftsman"
+	              name="{=!}斯特吉亚工匠"
 	              occupation="Villager"
 	              culture="Culture.sturgia"
 	              skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
@@ -1978,7 +1978,7 @@
 	<NPCCharacter id="noble_sturgia"
 	              default_group="Cavalry"
 	              level="1"
-	              name="{=!}Sturgia Noble"
+	              name="{=!}斯特吉亚贵族"
 	              occupation="Villager"
 	              culture="Culture.sturgia"
 	              skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
@@ -2097,7 +2097,7 @@
 	<NPCCharacter id="craftsman_battania"
 	              default_group="Infantry"
 	              level="1"
-	              name="{=!}Battania Craftsman"
+	              name="{=!}巴旦尼亚技工"
 	              occupation="Villager"
 	              culture="Culture.battania"
 	              skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
@@ -2196,7 +2196,7 @@
 	<NPCCharacter id="noble_battania"
 	              default_group="Infantry"
 	              level="1"
-	              name="{=!}Battania Noble"
+	              name="{=!}巴旦尼亚贵族"
 	              occupation="Villager"
 	              culture="Culture.battania"
 	              skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
@@ -2326,7 +2326,7 @@
 	<NPCCharacter id="craftsman_khuzait"
 	              default_group="Cavalry"
 	              level="1"
-	              name="{=!}Khuzait Craftsman"
+	              name="{=!}库赛特技工"
 	              occupation="Villager"
 	              culture="Culture.khuzait"
 	              skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
@@ -2428,7 +2428,7 @@
 	<NPCCharacter id="noble_khuzait"
 	              default_group="Cavalry"
 	              level="1"
-	              name="{=!}Khuzait Noble"
+	              name="{=!}库赛特贵族"
 	              occupation="Villager"
 	              culture="Culture.khuzait"
 	              skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
@@ -2560,7 +2560,7 @@
 	<NPCCharacter id="craftsman_aserai"
 	              default_group="Infantry"
 	              level="1"
-	              name="{=!}Aserai Craftsman"
+	              name="{=!}阿塞莱工匠"
 	              occupation="Villager"
 	              culture="Culture.aserai"
 	              skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
@@ -2659,7 +2659,7 @@
 	<NPCCharacter id="noble_aserai"
 	              default_group="Cavalry"
 	              level="1"
-	              name="{=!}Aserai Noble"
+	              name="{=!}阿塞莱贵族"
 	              occupation="Villager"
 	              culture="Culture.aserai"
 	              skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
